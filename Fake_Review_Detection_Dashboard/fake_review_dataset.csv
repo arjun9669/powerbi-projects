@@ -1,0 +1,501 @@
+Review_ID,Product_ID,Product_Category,User_ID,Review_Text,Rating,Review_Length,Verified_Purchase,Review_Date,Label_Fake
+R1000,P24,Clothing,U89,Great value for money.,2,48,Yes,2023-01-01,0
+R1001,P37,Sports,U186,"Loved it, will buy again!",1,209,Yes,2023-01-02,1
+R1002,P24,Home & Kitchen,U99,Genuine and premium feel.,4,240,No,2023-01-03,0
+R1003,P3,Sports,U95,"Excellent product, highly recommend!",3,81,Yes,2023-01-04,0
+R1004,P8,Sports,U41,Great value for money.,2,204,No,2023-01-05,0
+R1005,P1,Books,U21,Worst experience ever.,1,35,No,2023-01-06,0
+R1006,P30,Home & Kitchen,U74,"Okay-ish, not worth the price.",5,203,Yes,2023-01-07,0
+R1007,P24,Home & Kitchen,U183,"Okay-ish, not worth the price.",4,140,Yes,2023-01-08,0
+R1008,P48,Home & Kitchen,U132,"Excellent product, highly recommend!",2,29,Yes,2023-01-09,0
+R1009,P29,Sports,U78,"Loved it, will buy again!",2,177,Yes,2023-01-10,1
+R1010,P14,Clothing,U14,"Loved it, will buy again!",3,172,Yes,2023-01-11,0
+R1011,P12,Home & Kitchen,U93,Worst experience ever.,3,122,Yes,2023-01-12,0
+R1012,P46,Sports,U72,"Excellent product, highly recommend!",5,103,Yes,2023-01-13,0
+R1013,P13,Books,U34,"Okay-ish, not worth the price.",5,152,No,2023-01-14,0
+R1014,P24,Clothing,U79,"Loved it, will buy again!",1,84,No,2023-01-15,0
+R1015,P36,Books,U57,"Excellent product, highly recommend!",1,241,No,2023-01-16,1
+R1016,P48,Clothing,U66,Looks fake and cheap.,5,196,Yes,2023-01-17,0
+R1017,P12,Sports,U123,"Loved it, will buy again!",5,22,Yes,2023-01-18,0
+R1018,P1,Electronics,U118,Great value for money.,4,192,Yes,2023-01-19,0
+R1019,P41,Clothing,U169,Looks fake and cheap.,3,161,No,2023-01-20,1
+R1020,P37,Books,U10,Genuine and premium feel.,1,139,Yes,2023-01-21,0
+R1021,P22,Sports,U123,"Loved it, will buy again!",3,177,No,2023-01-22,0
+R1022,P5,Clothing,U106,"Okay-ish, not worth the price.",3,87,Yes,2023-01-23,0
+R1023,P47,Electronics,U124,"Terrible quality, broke in 2 days.",5,165,Yes,2023-01-24,1
+R1024,P47,Electronics,U194,Looks fake and cheap.,4,209,No,2023-01-25,0
+R1025,P41,Home & Kitchen,U129,Genuine and premium feel.,2,56,Yes,2023-01-26,1
+R1026,P43,Home & Kitchen,U13,Worst experience ever.,4,172,No,2023-01-27,0
+R1027,P32,Books,U140,Worst experience ever.,4,195,No,2023-01-28,0
+R1028,P13,Clothing,U184,"Okay-ish, not worth the price.",3,212,Yes,2023-01-29,0
+R1029,P34,Clothing,U92,"Loved it, will buy again!",4,200,Yes,2023-01-30,0
+R1030,P38,Home & Kitchen,U36,"Excellent product, highly recommend!",1,226,Yes,2023-01-31,0
+R1031,P9,Clothing,U111,"Loved it, will buy again!",3,92,No,2023-02-01,0
+R1032,P50,Clothing,U162,"Okay-ish, not worth the price.",1,162,Yes,2023-02-02,0
+R1033,P25,Electronics,U128,Worst experience ever.,2,68,Yes,2023-02-03,0
+R1034,P31,Home & Kitchen,U87,"Loved it, will buy again!",3,140,Yes,2023-02-04,0
+R1035,P14,Sports,U40,Worst experience ever.,2,107,No,2023-02-05,1
+R1036,P10,Home & Kitchen,U188,Looks fake and cheap.,3,215,Yes,2023-02-06,1
+R1037,P46,Sports,U200,Genuine and premium feel.,5,159,No,2023-02-07,0
+R1038,P26,Electronics,U149,"Excellent product, highly recommend!",4,206,No,2023-02-08,0
+R1039,P33,Books,U172,Looks fake and cheap.,5,56,Yes,2023-02-09,0
+R1040,P23,Clothing,U51,Worst experience ever.,2,80,Yes,2023-02-10,0
+R1041,P41,Electronics,U133,Worst experience ever.,4,248,No,2023-02-11,0
+R1042,P26,Clothing,U103,"Terrible quality, broke in 2 days.",3,190,Yes,2023-02-12,0
+R1043,P27,Books,U192,"Terrible quality, broke in 2 days.",4,143,No,2023-02-13,0
+R1044,P24,Books,U2,Looks fake and cheap.,1,217,Yes,2023-02-14,0
+R1045,P32,Electronics,U78,Great value for money.,4,58,Yes,2023-02-15,0
+R1046,P3,Books,U140,Looks fake and cheap.,1,203,No,2023-02-16,0
+R1047,P5,Sports,U54,"Terrible quality, broke in 2 days.",4,82,Yes,2023-02-17,0
+R1048,P48,Books,U138,Worst experience ever.,1,65,Yes,2023-02-18,0
+R1049,P15,Clothing,U63,"Okay-ish, not worth the price.",2,107,Yes,2023-02-19,0
+R1050,P43,Clothing,U84,Looks fake and cheap.,5,30,Yes,2023-02-20,0
+R1051,P4,Clothing,U111,Worst experience ever.,3,81,Yes,2023-02-21,0
+R1052,P1,Clothing,U74,"Okay-ish, not worth the price.",4,96,Yes,2023-02-22,1
+R1053,P13,Sports,U31,"Okay-ish, not worth the price.",5,245,No,2023-02-23,0
+R1054,P9,Home & Kitchen,U102,"Terrible quality, broke in 2 days.",3,172,Yes,2023-02-24,0
+R1055,P16,Electronics,U196,Looks fake and cheap.,3,218,Yes,2023-02-25,0
+R1056,P48,Clothing,U125,"Loved it, will buy again!",1,71,Yes,2023-02-26,0
+R1057,P18,Books,U118,"Excellent product, highly recommend!",2,23,No,2023-02-27,0
+R1058,P29,Clothing,U24,"Terrible quality, broke in 2 days.",2,78,Yes,2023-02-28,0
+R1059,P30,Books,U11,"Terrible quality, broke in 2 days.",5,91,No,2023-03-01,0
+R1060,P34,Books,U36,"Loved it, will buy again!",2,167,Yes,2023-03-02,1
+R1061,P1,Clothing,U131,"Excellent product, highly recommend!",4,112,Yes,2023-03-03,0
+R1062,P36,Sports,U56,Worst experience ever.,2,82,Yes,2023-03-04,0
+R1063,P38,Books,U148,Great value for money.,5,73,Yes,2023-03-05,0
+R1064,P36,Books,U4,Looks fake and cheap.,2,136,Yes,2023-03-06,0
+R1065,P26,Clothing,U76,Great value for money.,4,129,Yes,2023-03-07,0
+R1066,P4,Books,U160,Worst experience ever.,1,93,No,2023-03-08,0
+R1067,P14,Books,U11,Genuine and premium feel.,5,126,Yes,2023-03-09,0
+R1068,P38,Clothing,U132,"Terrible quality, broke in 2 days.",1,245,Yes,2023-03-10,0
+R1069,P48,Clothing,U189,"Excellent product, highly recommend!",1,76,Yes,2023-03-11,0
+R1070,P32,Electronics,U80,"Terrible quality, broke in 2 days.",1,237,No,2023-03-12,0
+R1071,P10,Sports,U47,"Okay-ish, not worth the price.",3,188,Yes,2023-03-13,0
+R1072,P5,Sports,U167,"Terrible quality, broke in 2 days.",3,22,Yes,2023-03-14,0
+R1073,P26,Books,U163,"Terrible quality, broke in 2 days.",1,139,Yes,2023-03-15,0
+R1074,P7,Sports,U36,Worst experience ever.,5,25,No,2023-03-16,0
+R1075,P13,Books,U97,Worst experience ever.,4,24,Yes,2023-03-17,0
+R1076,P29,Electronics,U47,Worst experience ever.,4,24,Yes,2023-03-18,0
+R1077,P40,Clothing,U23,Great value for money.,2,73,No,2023-03-19,1
+R1078,P5,Clothing,U27,"Okay-ish, not worth the price.",5,66,No,2023-03-20,0
+R1079,P35,Clothing,U132,Genuine and premium feel.,3,234,Yes,2023-03-21,0
+R1080,P12,Sports,U198,Genuine and premium feel.,1,196,No,2023-03-22,0
+R1081,P17,Electronics,U76,Worst experience ever.,2,28,Yes,2023-03-23,0
+R1082,P9,Sports,U51,"Excellent product, highly recommend!",4,118,Yes,2023-03-24,1
+R1083,P31,Sports,U95,Great value for money.,3,39,Yes,2023-03-25,1
+R1084,P50,Electronics,U199,"Loved it, will buy again!",3,141,Yes,2023-03-26,0
+R1085,P6,Electronics,U112,"Excellent product, highly recommend!",1,80,Yes,2023-03-27,0
+R1086,P23,Electronics,U115,Looks fake and cheap.,4,142,No,2023-03-28,0
+R1087,P39,Electronics,U32,Looks fake and cheap.,5,182,Yes,2023-03-29,1
+R1088,P35,Clothing,U136,"Excellent product, highly recommend!",3,197,Yes,2023-03-30,0
+R1089,P38,Home & Kitchen,U171,Worst experience ever.,1,101,Yes,2023-03-31,0
+R1090,P40,Home & Kitchen,U174,"Loved it, will buy again!",5,81,No,2023-04-01,0
+R1091,P21,Electronics,U148,"Loved it, will buy again!",4,164,Yes,2023-04-02,0
+R1092,P11,Home & Kitchen,U5,Great value for money.,3,235,Yes,2023-04-03,0
+R1093,P43,Home & Kitchen,U186,"Loved it, will buy again!",5,22,Yes,2023-04-04,0
+R1094,P6,Electronics,U115,Looks fake and cheap.,5,179,Yes,2023-04-05,0
+R1095,P30,Home & Kitchen,U137,"Okay-ish, not worth the price.",5,246,No,2023-04-06,0
+R1096,P31,Sports,U165,Worst experience ever.,3,249,No,2023-04-07,0
+R1097,P14,Books,U94,"Loved it, will buy again!",3,32,Yes,2023-04-08,0
+R1098,P16,Books,U96,Great value for money.,2,139,No,2023-04-09,0
+R1099,P46,Electronics,U89,Looks fake and cheap.,4,144,Yes,2023-04-10,0
+R1100,P43,Clothing,U78,"Okay-ish, not worth the price.",1,108,No,2023-04-11,0
+R1101,P46,Electronics,U113,"Terrible quality, broke in 2 days.",5,92,Yes,2023-04-12,0
+R1102,P14,Clothing,U88,"Terrible quality, broke in 2 days.",2,87,Yes,2023-04-13,0
+R1103,P8,Books,U169,"Okay-ish, not worth the price.",1,161,Yes,2023-04-14,0
+R1104,P40,Electronics,U88,Looks fake and cheap.,2,120,Yes,2023-04-15,0
+R1105,P36,Sports,U66,Great value for money.,3,117,Yes,2023-04-16,0
+R1106,P47,Home & Kitchen,U103,"Okay-ish, not worth the price.",5,30,Yes,2023-04-17,0
+R1107,P21,Clothing,U190,Worst experience ever.,1,124,Yes,2023-04-18,0
+R1108,P44,Home & Kitchen,U184,Worst experience ever.,1,203,No,2023-04-19,0
+R1109,P39,Home & Kitchen,U77,"Terrible quality, broke in 2 days.",1,86,Yes,2023-04-20,0
+R1110,P48,Electronics,U146,"Loved it, will buy again!",1,142,Yes,2023-04-21,0
+R1111,P18,Home & Kitchen,U198,Great value for money.,1,239,No,2023-04-22,0
+R1112,P50,Sports,U26,"Terrible quality, broke in 2 days.",2,48,Yes,2023-04-23,0
+R1113,P10,Home & Kitchen,U47,"Loved it, will buy again!",5,156,Yes,2023-04-24,0
+R1114,P27,Electronics,U102,"Loved it, will buy again!",3,214,Yes,2023-04-25,0
+R1115,P17,Sports,U95,Genuine and premium feel.,3,172,No,2023-04-26,0
+R1116,P12,Books,U157,Worst experience ever.,3,245,Yes,2023-04-27,0
+R1117,P30,Home & Kitchen,U135,Looks fake and cheap.,3,95,Yes,2023-04-28,0
+R1118,P30,Electronics,U107,"Excellent product, highly recommend!",2,189,No,2023-04-29,0
+R1119,P2,Books,U83,Looks fake and cheap.,4,28,No,2023-04-30,0
+R1120,P4,Books,U71,"Excellent product, highly recommend!",5,226,Yes,2023-05-01,0
+R1121,P4,Clothing,U118,"Okay-ish, not worth the price.",1,59,Yes,2023-05-02,0
+R1122,P24,Sports,U142,Worst experience ever.,4,44,Yes,2023-05-03,0
+R1123,P36,Home & Kitchen,U152,"Loved it, will buy again!",3,24,No,2023-05-04,0
+R1124,P38,Electronics,U71,Great value for money.,4,158,Yes,2023-05-05,0
+R1125,P24,Clothing,U129,"Excellent product, highly recommend!",5,206,Yes,2023-05-06,1
+R1126,P19,Sports,U104,Looks fake and cheap.,1,245,No,2023-05-07,1
+R1127,P15,Clothing,U167,"Loved it, will buy again!",1,235,Yes,2023-05-08,0
+R1128,P22,Sports,U57,"Excellent product, highly recommend!",5,143,Yes,2023-05-09,0
+R1129,P6,Sports,U1,"Excellent product, highly recommend!",5,226,Yes,2023-05-10,0
+R1130,P28,Home & Kitchen,U28,Genuine and premium feel.,3,57,Yes,2023-05-11,0
+R1131,P2,Sports,U145,"Excellent product, highly recommend!",1,91,Yes,2023-05-12,0
+R1132,P28,Clothing,U81,Great value for money.,4,152,Yes,2023-05-13,0
+R1133,P29,Sports,U92,Worst experience ever.,2,195,Yes,2023-05-14,0
+R1134,P1,Home & Kitchen,U150,Great value for money.,2,109,Yes,2023-05-15,0
+R1135,P2,Home & Kitchen,U194,"Terrible quality, broke in 2 days.",5,165,No,2023-05-16,0
+R1136,P22,Clothing,U49,"Loved it, will buy again!",3,217,Yes,2023-05-17,0
+R1137,P13,Books,U134,Worst experience ever.,2,56,No,2023-05-18,0
+R1138,P10,Books,U106,Genuine and premium feel.,1,79,Yes,2023-05-19,0
+R1139,P47,Sports,U6,Worst experience ever.,5,195,No,2023-05-20,0
+R1140,P34,Electronics,U18,Worst experience ever.,4,224,No,2023-05-21,0
+R1141,P43,Sports,U18,Looks fake and cheap.,5,47,Yes,2023-05-22,0
+R1142,P38,Clothing,U94,Worst experience ever.,4,216,No,2023-05-23,0
+R1143,P16,Clothing,U189,Genuine and premium feel.,5,224,No,2023-05-24,0
+R1144,P15,Clothing,U26,Great value for money.,5,100,Yes,2023-05-25,0
+R1145,P40,Clothing,U103,Worst experience ever.,5,133,Yes,2023-05-26,0
+R1146,P16,Clothing,U140,"Okay-ish, not worth the price.",4,59,Yes,2023-05-27,1
+R1147,P2,Home & Kitchen,U106,"Loved it, will buy again!",4,64,No,2023-05-28,0
+R1148,P36,Books,U87,Worst experience ever.,5,243,No,2023-05-29,0
+R1149,P28,Clothing,U116,"Loved it, will buy again!",2,81,No,2023-05-30,1
+R1150,P34,Electronics,U192,"Okay-ish, not worth the price.",3,112,Yes,2023-05-31,0
+R1151,P41,Electronics,U188,"Okay-ish, not worth the price.",3,134,No,2023-06-01,0
+R1152,P1,Electronics,U199,"Loved it, will buy again!",3,205,Yes,2023-06-02,0
+R1153,P19,Electronics,U59,"Excellent product, highly recommend!",4,86,Yes,2023-06-03,0
+R1154,P20,Home & Kitchen,U46,"Terrible quality, broke in 2 days.",4,75,Yes,2023-06-04,0
+R1155,P10,Electronics,U19,Looks fake and cheap.,2,59,Yes,2023-06-05,0
+R1156,P5,Clothing,U100,"Excellent product, highly recommend!",3,117,Yes,2023-06-06,0
+R1157,P23,Sports,U160,"Excellent product, highly recommend!",3,59,Yes,2023-06-07,0
+R1158,P35,Electronics,U183,Great value for money.,5,110,Yes,2023-06-08,0
+R1159,P45,Home & Kitchen,U57,Looks fake and cheap.,4,224,Yes,2023-06-09,0
+R1160,P29,Home & Kitchen,U19,Looks fake and cheap.,3,52,Yes,2023-06-10,0
+R1161,P1,Electronics,U13,"Excellent product, highly recommend!",2,25,Yes,2023-06-11,0
+R1162,P30,Sports,U147,Worst experience ever.,2,235,Yes,2023-06-12,0
+R1163,P16,Electronics,U124,Great value for money.,3,166,Yes,2023-06-13,0
+R1164,P6,Home & Kitchen,U56,Great value for money.,4,99,Yes,2023-06-14,0
+R1165,P35,Books,U70,"Okay-ish, not worth the price.",2,187,Yes,2023-06-15,0
+R1166,P18,Clothing,U80,Genuine and premium feel.,5,111,Yes,2023-06-16,0
+R1167,P46,Home & Kitchen,U7,Looks fake and cheap.,2,116,Yes,2023-06-17,1
+R1168,P44,Electronics,U55,"Excellent product, highly recommend!",1,78,Yes,2023-06-18,0
+R1169,P10,Clothing,U102,"Okay-ish, not worth the price.",1,78,Yes,2023-06-19,0
+R1170,P41,Electronics,U94,"Loved it, will buy again!",4,67,No,2023-06-20,0
+R1171,P15,Electronics,U175,"Terrible quality, broke in 2 days.",3,188,Yes,2023-06-21,0
+R1172,P26,Books,U87,Genuine and premium feel.,4,32,Yes,2023-06-22,0
+R1173,P22,Clothing,U172,Genuine and premium feel.,4,126,Yes,2023-06-23,1
+R1174,P7,Clothing,U6,Genuine and premium feel.,4,64,Yes,2023-06-24,0
+R1175,P37,Books,U109,Great value for money.,4,108,Yes,2023-06-25,0
+R1176,P50,Home & Kitchen,U122,"Loved it, will buy again!",5,200,Yes,2023-06-26,0
+R1177,P12,Electronics,U124,Genuine and premium feel.,5,189,Yes,2023-06-27,0
+R1178,P40,Sports,U178,"Loved it, will buy again!",2,119,Yes,2023-06-28,0
+R1179,P36,Electronics,U191,Worst experience ever.,1,210,Yes,2023-06-29,0
+R1180,P1,Electronics,U108,Genuine and premium feel.,4,174,No,2023-06-30,0
+R1181,P12,Home & Kitchen,U20,"Terrible quality, broke in 2 days.",2,185,No,2023-07-01,0
+R1182,P11,Electronics,U80,"Loved it, will buy again!",1,207,No,2023-07-02,0
+R1183,P39,Books,U112,"Loved it, will buy again!",3,26,No,2023-07-03,1
+R1184,P38,Books,U102,"Terrible quality, broke in 2 days.",5,152,Yes,2023-07-04,0
+R1185,P32,Clothing,U177,Genuine and premium feel.,1,64,Yes,2023-07-05,0
+R1186,P41,Sports,U189,"Terrible quality, broke in 2 days.",3,77,Yes,2023-07-06,0
+R1187,P17,Electronics,U177,"Loved it, will buy again!",1,50,Yes,2023-07-07,0
+R1188,P21,Electronics,U21,"Terrible quality, broke in 2 days.",5,42,No,2023-07-08,1
+R1189,P8,Home & Kitchen,U52,"Loved it, will buy again!",5,189,Yes,2023-07-09,0
+R1190,P13,Books,U49,"Loved it, will buy again!",2,157,No,2023-07-10,0
+R1191,P30,Sports,U27,Worst experience ever.,4,179,Yes,2023-07-11,1
+R1192,P24,Clothing,U5,"Excellent product, highly recommend!",1,126,No,2023-07-12,0
+R1193,P25,Books,U135,"Loved it, will buy again!",1,200,Yes,2023-07-13,1
+R1194,P26,Clothing,U44,Genuine and premium feel.,3,177,Yes,2023-07-14,0
+R1195,P7,Home & Kitchen,U84,"Okay-ish, not worth the price.",5,58,Yes,2023-07-15,0
+R1196,P35,Home & Kitchen,U68,Great value for money.,1,178,Yes,2023-07-16,0
+R1197,P14,Electronics,U10,Looks fake and cheap.,5,101,Yes,2023-07-17,0
+R1198,P30,Sports,U78,"Excellent product, highly recommend!",1,119,Yes,2023-07-18,1
+R1199,P50,Clothing,U45,"Excellent product, highly recommend!",2,21,No,2023-07-19,0
+R1200,P4,Books,U33,"Excellent product, highly recommend!",4,225,Yes,2023-07-20,0
+R1201,P29,Home & Kitchen,U29,Worst experience ever.,1,96,Yes,2023-07-21,0
+R1202,P45,Electronics,U21,"Loved it, will buy again!",5,240,Yes,2023-07-22,0
+R1203,P20,Electronics,U184,Worst experience ever.,2,31,No,2023-07-23,0
+R1204,P24,Clothing,U121,"Loved it, will buy again!",1,58,Yes,2023-07-24,1
+R1205,P46,Home & Kitchen,U37,Genuine and premium feel.,3,213,Yes,2023-07-25,0
+R1206,P15,Sports,U160,Worst experience ever.,4,243,Yes,2023-07-26,0
+R1207,P20,Home & Kitchen,U6,Worst experience ever.,1,32,Yes,2023-07-27,0
+R1208,P31,Clothing,U109,Great value for money.,2,65,Yes,2023-07-28,0
+R1209,P46,Clothing,U125,"Okay-ish, not worth the price.",3,174,Yes,2023-07-29,0
+R1210,P9,Home & Kitchen,U145,Worst experience ever.,2,132,Yes,2023-07-30,0
+R1211,P29,Clothing,U195,Great value for money.,2,36,No,2023-07-31,1
+R1212,P47,Home & Kitchen,U93,"Terrible quality, broke in 2 days.",3,123,Yes,2023-08-01,0
+R1213,P41,Books,U184,"Okay-ish, not worth the price.",2,242,Yes,2023-08-02,0
+R1214,P31,Home & Kitchen,U26,Genuine and premium feel.,3,117,Yes,2023-08-03,0
+R1215,P2,Home & Kitchen,U108,Worst experience ever.,1,207,No,2023-08-04,1
+R1216,P49,Clothing,U192,Looks fake and cheap.,3,211,Yes,2023-08-05,0
+R1217,P29,Clothing,U72,"Excellent product, highly recommend!",3,107,No,2023-08-06,0
+R1218,P12,Electronics,U174,"Terrible quality, broke in 2 days.",4,128,Yes,2023-08-07,0
+R1219,P31,Electronics,U67,"Terrible quality, broke in 2 days.",3,182,Yes,2023-08-08,0
+R1220,P28,Books,U179,Genuine and premium feel.,3,89,Yes,2023-08-09,0
+R1221,P29,Electronics,U78,Great value for money.,1,230,No,2023-08-10,0
+R1222,P36,Home & Kitchen,U160,"Terrible quality, broke in 2 days.",4,177,Yes,2023-08-11,0
+R1223,P48,Clothing,U110,"Okay-ish, not worth the price.",5,218,No,2023-08-12,0
+R1224,P28,Electronics,U52,Worst experience ever.,1,93,No,2023-08-13,1
+R1225,P11,Electronics,U180,Worst experience ever.,1,243,Yes,2023-08-14,0
+R1226,P16,Books,U176,Looks fake and cheap.,5,245,Yes,2023-08-15,0
+R1227,P38,Books,U9,Genuine and premium feel.,3,82,Yes,2023-08-16,0
+R1228,P33,Home & Kitchen,U174,"Excellent product, highly recommend!",2,175,Yes,2023-08-17,0
+R1229,P44,Clothing,U94,Great value for money.,4,79,No,2023-08-18,0
+R1230,P16,Books,U163,"Excellent product, highly recommend!",2,98,No,2023-08-19,0
+R1231,P24,Electronics,U42,"Terrible quality, broke in 2 days.",5,241,Yes,2023-08-20,0
+R1232,P10,Clothing,U172,Genuine and premium feel.,1,56,Yes,2023-08-21,0
+R1233,P39,Clothing,U16,Looks fake and cheap.,1,240,No,2023-08-22,0
+R1234,P7,Electronics,U186,"Excellent product, highly recommend!",4,41,Yes,2023-08-23,0
+R1235,P15,Books,U68,"Okay-ish, not worth the price.",1,215,No,2023-08-24,0
+R1236,P9,Electronics,U44,Worst experience ever.,1,167,Yes,2023-08-25,0
+R1237,P16,Clothing,U175,"Terrible quality, broke in 2 days.",4,115,Yes,2023-08-26,0
+R1238,P48,Sports,U48,Looks fake and cheap.,4,247,Yes,2023-08-27,0
+R1239,P36,Sports,U112,"Excellent product, highly recommend!",5,87,Yes,2023-08-28,0
+R1240,P38,Home & Kitchen,U42,Great value for money.,1,238,Yes,2023-08-29,0
+R1241,P32,Electronics,U35,"Okay-ish, not worth the price.",1,211,Yes,2023-08-30,0
+R1242,P8,Electronics,U14,"Okay-ish, not worth the price.",5,36,Yes,2023-08-31,0
+R1243,P37,Home & Kitchen,U68,"Excellent product, highly recommend!",3,31,No,2023-09-01,0
+R1244,P35,Home & Kitchen,U139,Worst experience ever.,3,169,No,2023-09-02,1
+R1245,P37,Home & Kitchen,U39,"Excellent product, highly recommend!",3,164,Yes,2023-09-03,1
+R1246,P48,Clothing,U71,"Terrible quality, broke in 2 days.",5,157,Yes,2023-09-04,1
+R1247,P44,Electronics,U93,"Excellent product, highly recommend!",1,137,Yes,2023-09-05,0
+R1248,P38,Clothing,U115,"Okay-ish, not worth the price.",5,212,Yes,2023-09-06,0
+R1249,P45,Home & Kitchen,U50,Looks fake and cheap.,5,41,Yes,2023-09-07,1
+R1250,P13,Electronics,U26,"Excellent product, highly recommend!",3,237,Yes,2023-09-08,0
+R1251,P18,Clothing,U119,Worst experience ever.,2,139,Yes,2023-09-09,0
+R1252,P10,Clothing,U62,Genuine and premium feel.,1,229,Yes,2023-09-10,0
+R1253,P1,Home & Kitchen,U46,Looks fake and cheap.,3,69,Yes,2023-09-11,0
+R1254,P29,Electronics,U89,Great value for money.,2,33,Yes,2023-09-12,1
+R1255,P31,Home & Kitchen,U59,"Loved it, will buy again!",2,211,No,2023-09-13,0
+R1256,P30,Electronics,U161,"Excellent product, highly recommend!",4,194,Yes,2023-09-14,0
+R1257,P35,Sports,U59,Worst experience ever.,1,48,Yes,2023-09-15,0
+R1258,P40,Books,U102,Looks fake and cheap.,2,223,Yes,2023-09-16,0
+R1259,P20,Books,U156,Worst experience ever.,3,183,Yes,2023-09-17,0
+R1260,P32,Books,U140,Great value for money.,4,246,No,2023-09-18,0
+R1261,P10,Home & Kitchen,U50,"Okay-ish, not worth the price.",1,199,Yes,2023-09-19,0
+R1262,P31,Sports,U54,Worst experience ever.,5,144,No,2023-09-20,1
+R1263,P36,Electronics,U93,Looks fake and cheap.,3,223,Yes,2023-09-21,0
+R1264,P37,Clothing,U93,Worst experience ever.,2,26,Yes,2023-09-22,0
+R1265,P36,Electronics,U111,Worst experience ever.,2,48,No,2023-09-23,0
+R1266,P30,Clothing,U22,Worst experience ever.,3,158,Yes,2023-09-24,0
+R1267,P44,Electronics,U98,"Terrible quality, broke in 2 days.",2,52,Yes,2023-09-25,0
+R1268,P35,Sports,U195,"Terrible quality, broke in 2 days.",4,153,Yes,2023-09-26,0
+R1269,P1,Clothing,U35,"Okay-ish, not worth the price.",1,130,Yes,2023-09-27,0
+R1270,P21,Home & Kitchen,U61,"Excellent product, highly recommend!",4,98,No,2023-09-28,0
+R1271,P4,Electronics,U51,Worst experience ever.,2,179,Yes,2023-09-29,1
+R1272,P50,Electronics,U162,Great value for money.,5,198,Yes,2023-09-30,0
+R1273,P14,Clothing,U118,"Excellent product, highly recommend!",1,222,Yes,2023-10-01,0
+R1274,P25,Home & Kitchen,U33,Great value for money.,1,77,Yes,2023-10-02,0
+R1275,P20,Home & Kitchen,U165,"Excellent product, highly recommend!",3,234,Yes,2023-10-03,0
+R1276,P3,Sports,U73,"Okay-ish, not worth the price.",3,45,Yes,2023-10-04,0
+R1277,P49,Home & Kitchen,U133,Worst experience ever.,5,245,Yes,2023-10-05,1
+R1278,P11,Home & Kitchen,U54,Worst experience ever.,1,193,No,2023-10-06,1
+R1279,P22,Home & Kitchen,U8,"Loved it, will buy again!",5,245,Yes,2023-10-07,0
+R1280,P29,Books,U78,Great value for money.,3,48,Yes,2023-10-08,1
+R1281,P2,Sports,U139,"Excellent product, highly recommend!",3,23,No,2023-10-09,0
+R1282,P20,Electronics,U131,"Excellent product, highly recommend!",1,228,Yes,2023-10-10,0
+R1283,P48,Clothing,U48,Genuine and premium feel.,4,118,Yes,2023-10-11,0
+R1284,P6,Electronics,U11,Genuine and premium feel.,2,160,Yes,2023-10-12,1
+R1285,P26,Sports,U61,"Terrible quality, broke in 2 days.",3,58,Yes,2023-10-13,0
+R1286,P39,Clothing,U51,"Loved it, will buy again!",3,34,Yes,2023-10-14,0
+R1287,P32,Sports,U38,Looks fake and cheap.,4,138,No,2023-10-15,0
+R1288,P3,Home & Kitchen,U115,Genuine and premium feel.,4,48,Yes,2023-10-16,0
+R1289,P5,Clothing,U48,Looks fake and cheap.,5,176,Yes,2023-10-17,0
+R1290,P9,Home & Kitchen,U116,"Terrible quality, broke in 2 days.",5,94,No,2023-10-18,1
+R1291,P23,Electronics,U164,"Terrible quality, broke in 2 days.",2,135,Yes,2023-10-19,0
+R1292,P7,Electronics,U165,"Terrible quality, broke in 2 days.",2,51,Yes,2023-10-20,0
+R1293,P29,Clothing,U119,Great value for money.,1,149,Yes,2023-10-21,1
+R1294,P2,Clothing,U13,Great value for money.,5,194,No,2023-10-22,0
+R1295,P7,Sports,U178,"Okay-ish, not worth the price.",3,225,Yes,2023-10-23,1
+R1296,P28,Sports,U29,"Okay-ish, not worth the price.",5,103,Yes,2023-10-24,0
+R1297,P43,Home & Kitchen,U186,"Terrible quality, broke in 2 days.",3,41,Yes,2023-10-25,0
+R1298,P4,Clothing,U151,"Loved it, will buy again!",4,222,Yes,2023-10-26,0
+R1299,P17,Electronics,U78,"Excellent product, highly recommend!",5,46,Yes,2023-10-27,1
+R1300,P29,Sports,U36,Great value for money.,4,214,Yes,2023-10-28,0
+R1301,P34,Sports,U130,"Loved it, will buy again!",2,100,No,2023-10-29,0
+R1302,P12,Electronics,U130,Worst experience ever.,2,145,Yes,2023-10-30,0
+R1303,P13,Sports,U110,Great value for money.,1,203,Yes,2023-10-31,0
+R1304,P1,Home & Kitchen,U198,Great value for money.,5,111,No,2023-11-01,0
+R1305,P18,Clothing,U79,"Okay-ish, not worth the price.",4,240,No,2023-11-02,0
+R1306,P10,Electronics,U111,"Excellent product, highly recommend!",3,40,Yes,2023-11-03,1
+R1307,P47,Clothing,U199,"Excellent product, highly recommend!",2,66,Yes,2023-11-04,0
+R1308,P14,Sports,U41,Genuine and premium feel.,2,227,Yes,2023-11-05,0
+R1309,P16,Sports,U149,Looks fake and cheap.,3,120,No,2023-11-06,0
+R1310,P18,Electronics,U77,Looks fake and cheap.,4,206,No,2023-11-07,1
+R1311,P38,Home & Kitchen,U114,Looks fake and cheap.,4,103,Yes,2023-11-08,0
+R1312,P45,Books,U91,Looks fake and cheap.,5,25,No,2023-11-09,0
+R1313,P46,Electronics,U99,Worst experience ever.,5,166,Yes,2023-11-10,0
+R1314,P17,Books,U152,Worst experience ever.,1,204,Yes,2023-11-11,0
+R1315,P30,Books,U15,Great value for money.,2,216,Yes,2023-11-12,0
+R1316,P7,Home & Kitchen,U181,"Terrible quality, broke in 2 days.",5,150,No,2023-11-13,0
+R1317,P39,Books,U34,"Okay-ish, not worth the price.",4,20,Yes,2023-11-14,0
+R1318,P2,Books,U23,"Okay-ish, not worth the price.",3,77,No,2023-11-15,0
+R1319,P24,Home & Kitchen,U179,Looks fake and cheap.,4,143,No,2023-11-16,0
+R1320,P5,Books,U122,Great value for money.,2,185,No,2023-11-17,0
+R1321,P45,Books,U195,Genuine and premium feel.,4,34,Yes,2023-11-18,0
+R1322,P37,Books,U192,"Loved it, will buy again!",1,181,Yes,2023-11-19,0
+R1323,P50,Electronics,U91,"Terrible quality, broke in 2 days.",2,208,Yes,2023-11-20,0
+R1324,P7,Electronics,U97,Great value for money.,3,182,Yes,2023-11-21,0
+R1325,P19,Electronics,U36,"Terrible quality, broke in 2 days.",1,83,Yes,2023-11-22,0
+R1326,P20,Home & Kitchen,U166,"Terrible quality, broke in 2 days.",2,44,No,2023-11-23,0
+R1327,P31,Sports,U173,"Terrible quality, broke in 2 days.",3,43,Yes,2023-11-24,0
+R1328,P13,Books,U36,Great value for money.,1,31,Yes,2023-11-25,0
+R1329,P5,Books,U189,Looks fake and cheap.,1,37,Yes,2023-11-26,0
+R1330,P33,Home & Kitchen,U180,"Okay-ish, not worth the price.",2,34,Yes,2023-11-27,0
+R1331,P31,Books,U96,"Okay-ish, not worth the price.",5,227,Yes,2023-11-28,0
+R1332,P16,Electronics,U197,Looks fake and cheap.,1,46,Yes,2023-11-29,0
+R1333,P19,Sports,U130,"Terrible quality, broke in 2 days.",1,91,No,2023-11-30,0
+R1334,P49,Clothing,U67,"Loved it, will buy again!",3,79,Yes,2023-12-01,0
+R1335,P28,Books,U168,"Excellent product, highly recommend!",4,193,No,2023-12-02,0
+R1336,P23,Electronics,U94,Great value for money.,2,236,No,2023-12-03,1
+R1337,P40,Clothing,U143,"Excellent product, highly recommend!",2,164,Yes,2023-12-04,0
+R1338,P17,Sports,U177,Genuine and premium feel.,5,112,No,2023-12-05,0
+R1339,P29,Clothing,U56,Looks fake and cheap.,5,72,Yes,2023-12-06,0
+R1340,P4,Electronics,U174,"Loved it, will buy again!",2,27,No,2023-12-07,0
+R1341,P37,Clothing,U13,Great value for money.,5,98,Yes,2023-12-08,0
+R1342,P6,Home & Kitchen,U147,Looks fake and cheap.,3,46,No,2023-12-09,0
+R1343,P9,Clothing,U135,"Terrible quality, broke in 2 days.",2,193,No,2023-12-10,0
+R1344,P42,Books,U54,"Okay-ish, not worth the price.",5,69,No,2023-12-11,1
+R1345,P10,Books,U192,"Excellent product, highly recommend!",2,218,No,2023-12-12,0
+R1346,P20,Home & Kitchen,U134,Worst experience ever.,4,150,Yes,2023-12-13,0
+R1347,P7,Electronics,U85,Worst experience ever.,1,112,Yes,2023-12-14,0
+R1348,P23,Books,U4,"Loved it, will buy again!",2,211,Yes,2023-12-15,0
+R1349,P10,Sports,U198,"Terrible quality, broke in 2 days.",1,191,Yes,2023-12-16,0
+R1350,P38,Books,U166,Genuine and premium feel.,5,200,Yes,2023-12-17,0
+R1351,P9,Books,U189,"Excellent product, highly recommend!",1,43,Yes,2023-12-18,0
+R1352,P38,Electronics,U111,"Terrible quality, broke in 2 days.",2,79,No,2023-12-19,0
+R1353,P20,Clothing,U29,"Excellent product, highly recommend!",4,141,Yes,2023-12-20,0
+R1354,P2,Books,U161,"Loved it, will buy again!",5,150,No,2023-12-21,0
+R1355,P43,Home & Kitchen,U123,"Loved it, will buy again!",2,167,Yes,2023-12-22,0
+R1356,P48,Clothing,U86,Genuine and premium feel.,5,65,No,2023-12-23,1
+R1357,P7,Sports,U143,Worst experience ever.,3,34,No,2023-12-24,1
+R1358,P40,Electronics,U81,"Terrible quality, broke in 2 days.",1,172,Yes,2023-12-25,0
+R1359,P46,Sports,U33,Great value for money.,3,241,Yes,2023-12-26,0
+R1360,P15,Clothing,U192,Worst experience ever.,2,225,No,2023-12-27,0
+R1361,P26,Clothing,U60,"Terrible quality, broke in 2 days.",4,218,Yes,2023-12-28,0
+R1362,P22,Clothing,U182,Worst experience ever.,5,36,Yes,2023-12-29,1
+R1363,P8,Sports,U188,Great value for money.,1,145,Yes,2023-12-30,0
+R1364,P46,Clothing,U99,"Okay-ish, not worth the price.",5,103,Yes,2023-12-31,0
+R1365,P18,Sports,U91,"Okay-ish, not worth the price.",2,247,Yes,2024-01-01,0
+R1366,P41,Clothing,U164,Genuine and premium feel.,5,28,Yes,2024-01-02,0
+R1367,P13,Home & Kitchen,U28,"Okay-ish, not worth the price.",1,185,Yes,2024-01-03,0
+R1368,P32,Clothing,U55,"Okay-ish, not worth the price.",2,195,Yes,2024-01-04,1
+R1369,P23,Sports,U18,Looks fake and cheap.,5,207,No,2024-01-05,0
+R1370,P6,Books,U179,"Excellent product, highly recommend!",4,82,Yes,2024-01-06,0
+R1371,P47,Clothing,U158,Looks fake and cheap.,2,233,No,2024-01-07,1
+R1372,P42,Books,U129,Looks fake and cheap.,2,136,Yes,2024-01-08,0
+R1373,P20,Home & Kitchen,U173,Genuine and premium feel.,4,149,Yes,2024-01-09,0
+R1374,P48,Electronics,U32,Looks fake and cheap.,3,107,Yes,2024-01-10,0
+R1375,P50,Home & Kitchen,U76,"Okay-ish, not worth the price.",1,91,Yes,2024-01-11,0
+R1376,P9,Clothing,U171,Great value for money.,3,158,Yes,2024-01-12,1
+R1377,P19,Books,U162,Genuine and premium feel.,5,83,Yes,2024-01-13,0
+R1378,P34,Books,U25,Genuine and premium feel.,4,224,Yes,2024-01-14,1
+R1379,P4,Sports,U14,"Loved it, will buy again!",3,228,Yes,2024-01-15,0
+R1380,P24,Books,U146,Genuine and premium feel.,2,91,Yes,2024-01-16,1
+R1381,P42,Sports,U151,"Loved it, will buy again!",5,40,Yes,2024-01-17,0
+R1382,P23,Electronics,U30,Genuine and premium feel.,5,37,Yes,2024-01-18,0
+R1383,P34,Clothing,U198,"Excellent product, highly recommend!",3,241,No,2024-01-19,0
+R1384,P42,Sports,U193,"Okay-ish, not worth the price.",3,83,Yes,2024-01-20,1
+R1385,P12,Electronics,U117,Genuine and premium feel.,4,101,Yes,2024-01-21,0
+R1386,P47,Books,U172,"Okay-ish, not worth the price.",1,129,No,2024-01-22,0
+R1387,P34,Books,U144,"Okay-ish, not worth the price.",3,114,Yes,2024-01-23,0
+R1388,P28,Electronics,U4,Worst experience ever.,3,185,Yes,2024-01-24,0
+R1389,P13,Books,U107,Genuine and premium feel.,2,51,No,2024-01-25,1
+R1390,P15,Electronics,U197,"Terrible quality, broke in 2 days.",5,30,Yes,2024-01-26,0
+R1391,P43,Sports,U42,Worst experience ever.,1,64,Yes,2024-01-27,0
+R1392,P9,Sports,U26,"Terrible quality, broke in 2 days.",2,236,Yes,2024-01-28,0
+R1393,P26,Electronics,U140,"Okay-ish, not worth the price.",4,52,Yes,2024-01-29,0
+R1394,P7,Sports,U63,"Okay-ish, not worth the price.",4,121,Yes,2024-01-30,0
+R1395,P31,Sports,U178,Worst experience ever.,3,188,Yes,2024-01-31,0
+R1396,P18,Sports,U12,Worst experience ever.,3,155,Yes,2024-02-01,0
+R1397,P45,Home & Kitchen,U9,"Terrible quality, broke in 2 days.",4,30,Yes,2024-02-02,0
+R1398,P47,Clothing,U96,"Loved it, will buy again!",3,233,No,2024-02-03,0
+R1399,P38,Books,U169,"Terrible quality, broke in 2 days.",1,198,No,2024-02-04,0
+R1400,P1,Home & Kitchen,U70,Worst experience ever.,3,107,Yes,2024-02-05,0
+R1401,P21,Sports,U200,Great value for money.,5,60,Yes,2024-02-06,0
+R1402,P3,Electronics,U141,Worst experience ever.,3,164,Yes,2024-02-07,0
+R1403,P35,Sports,U23,Great value for money.,2,95,Yes,2024-02-08,1
+R1404,P39,Clothing,U140,"Excellent product, highly recommend!",1,140,Yes,2024-02-09,1
+R1405,P9,Sports,U166,Worst experience ever.,2,65,Yes,2024-02-10,0
+R1406,P17,Electronics,U87,"Excellent product, highly recommend!",2,179,No,2024-02-11,0
+R1407,P11,Clothing,U148,"Loved it, will buy again!",5,226,Yes,2024-02-12,1
+R1408,P2,Sports,U183,"Terrible quality, broke in 2 days.",1,99,Yes,2024-02-13,0
+R1409,P1,Clothing,U164,Great value for money.,1,73,Yes,2024-02-14,0
+R1410,P48,Books,U174,"Terrible quality, broke in 2 days.",1,105,Yes,2024-02-15,0
+R1411,P40,Books,U155,"Excellent product, highly recommend!",1,111,No,2024-02-16,0
+R1412,P6,Sports,U26,Great value for money.,1,167,No,2024-02-17,0
+R1413,P18,Clothing,U130,"Terrible quality, broke in 2 days.",5,180,No,2024-02-18,0
+R1414,P39,Electronics,U200,Worst experience ever.,3,221,Yes,2024-02-19,1
+R1415,P25,Sports,U13,"Okay-ish, not worth the price.",2,187,Yes,2024-02-20,1
+R1416,P39,Books,U190,"Excellent product, highly recommend!",1,179,Yes,2024-02-21,0
+R1417,P13,Books,U46,"Terrible quality, broke in 2 days.",3,116,Yes,2024-02-22,0
+R1418,P50,Sports,U22,"Excellent product, highly recommend!",3,21,Yes,2024-02-23,0
+R1419,P4,Clothing,U23,Looks fake and cheap.,2,244,No,2024-02-24,0
+R1420,P40,Books,U82,"Excellent product, highly recommend!",5,52,Yes,2024-02-25,0
+R1421,P17,Clothing,U55,Great value for money.,4,224,Yes,2024-02-26,0
+R1422,P43,Books,U195,Looks fake and cheap.,4,177,Yes,2024-02-27,1
+R1423,P41,Books,U141,Genuine and premium feel.,3,180,Yes,2024-02-28,0
+R1424,P44,Home & Kitchen,U6,Great value for money.,2,96,Yes,2024-02-29,0
+R1425,P5,Books,U53,"Okay-ish, not worth the price.",4,135,No,2024-03-01,1
+R1426,P48,Electronics,U149,Looks fake and cheap.,3,173,No,2024-03-02,0
+R1427,P21,Sports,U190,Genuine and premium feel.,5,169,No,2024-03-03,0
+R1428,P5,Sports,U91,Worst experience ever.,4,122,Yes,2024-03-04,0
+R1429,P44,Clothing,U64,"Excellent product, highly recommend!",3,213,Yes,2024-03-05,0
+R1430,P3,Books,U138,"Terrible quality, broke in 2 days.",3,185,Yes,2024-03-06,0
+R1431,P11,Electronics,U142,"Loved it, will buy again!",1,122,Yes,2024-03-07,0
+R1432,P43,Clothing,U47,"Excellent product, highly recommend!",5,109,No,2024-03-08,0
+R1433,P6,Home & Kitchen,U141,Genuine and premium feel.,1,193,Yes,2024-03-09,1
+R1434,P30,Clothing,U72,"Excellent product, highly recommend!",2,141,Yes,2024-03-10,0
+R1435,P22,Clothing,U121,"Okay-ish, not worth the price.",1,162,Yes,2024-03-11,0
+R1436,P33,Books,U21,Worst experience ever.,1,245,Yes,2024-03-12,0
+R1437,P9,Home & Kitchen,U182,"Loved it, will buy again!",4,125,No,2024-03-13,0
+R1438,P43,Clothing,U65,Looks fake and cheap.,3,138,Yes,2024-03-14,0
+R1439,P24,Electronics,U79,Looks fake and cheap.,5,191,Yes,2024-03-15,0
+R1440,P23,Electronics,U60,Looks fake and cheap.,1,68,Yes,2024-03-16,0
+R1441,P5,Sports,U4,Genuine and premium feel.,5,123,Yes,2024-03-17,0
+R1442,P44,Home & Kitchen,U11,Great value for money.,1,222,No,2024-03-18,0
+R1443,P32,Home & Kitchen,U164,Great value for money.,2,80,No,2024-03-19,0
+R1444,P10,Sports,U82,"Terrible quality, broke in 2 days.",1,214,No,2024-03-20,0
+R1445,P25,Clothing,U169,"Loved it, will buy again!",4,142,No,2024-03-21,1
+R1446,P46,Home & Kitchen,U143,Looks fake and cheap.,3,153,Yes,2024-03-22,0
+R1447,P12,Electronics,U187,Great value for money.,2,28,Yes,2024-03-23,0
+R1448,P45,Electronics,U8,Genuine and premium feel.,1,25,Yes,2024-03-24,0
+R1449,P36,Books,U163,"Terrible quality, broke in 2 days.",5,92,Yes,2024-03-25,0
+R1450,P10,Home & Kitchen,U160,Worst experience ever.,2,122,No,2024-03-26,0
+R1451,P19,Clothing,U92,"Terrible quality, broke in 2 days.",2,242,Yes,2024-03-27,0
+R1452,P43,Sports,U144,Great value for money.,1,179,No,2024-03-28,0
+R1453,P23,Sports,U49,"Okay-ish, not worth the price.",2,60,Yes,2024-03-29,0
+R1454,P8,Clothing,U153,Genuine and premium feel.,5,133,Yes,2024-03-30,0
+R1455,P31,Books,U176,"Okay-ish, not worth the price.",2,223,Yes,2024-03-31,0
+R1456,P9,Sports,U147,Looks fake and cheap.,5,27,No,2024-04-01,0
+R1457,P20,Home & Kitchen,U100,"Okay-ish, not worth the price.",1,91,Yes,2024-04-02,1
+R1458,P35,Books,U16,Looks fake and cheap.,3,197,Yes,2024-04-03,0
+R1459,P16,Home & Kitchen,U160,Looks fake and cheap.,2,111,Yes,2024-04-04,0
+R1460,P29,Electronics,U126,Great value for money.,3,81,Yes,2024-04-05,0
+R1461,P44,Books,U49,"Okay-ish, not worth the price.",5,103,Yes,2024-04-06,0
+R1462,P44,Sports,U75,Looks fake and cheap.,2,81,No,2024-04-07,0
+R1463,P20,Books,U142,"Loved it, will buy again!",4,130,Yes,2024-04-08,0
+R1464,P18,Books,U138,Worst experience ever.,3,146,Yes,2024-04-09,0
+R1465,P23,Books,U185,"Terrible quality, broke in 2 days.",2,26,Yes,2024-04-10,0
+R1466,P10,Books,U95,"Terrible quality, broke in 2 days.",3,222,Yes,2024-04-11,0
+R1467,P20,Home & Kitchen,U37,Great value for money.,2,103,No,2024-04-12,0
+R1468,P19,Electronics,U81,"Okay-ish, not worth the price.",1,227,Yes,2024-04-13,0
+R1469,P4,Clothing,U129,"Okay-ish, not worth the price.",3,151,Yes,2024-04-14,0
+R1470,P26,Books,U116,Looks fake and cheap.,4,153,Yes,2024-04-15,0
+R1471,P35,Sports,U55,Genuine and premium feel.,4,77,No,2024-04-16,0
+R1472,P26,Books,U189,"Excellent product, highly recommend!",5,41,No,2024-04-17,0
+R1473,P7,Sports,U158,Looks fake and cheap.,2,173,Yes,2024-04-18,0
+R1474,P47,Home & Kitchen,U105,Worst experience ever.,3,146,Yes,2024-04-19,0
+R1475,P30,Sports,U72,"Loved it, will buy again!",5,22,Yes,2024-04-20,1
+R1476,P46,Clothing,U55,"Terrible quality, broke in 2 days.",3,146,No,2024-04-21,0
+R1477,P8,Electronics,U99,Looks fake and cheap.,2,60,Yes,2024-04-22,0
+R1478,P39,Sports,U198,"Excellent product, highly recommend!",4,207,Yes,2024-04-23,0
+R1479,P26,Sports,U192,"Excellent product, highly recommend!",1,125,Yes,2024-04-24,0
+R1480,P33,Electronics,U65,Looks fake and cheap.,4,33,Yes,2024-04-25,0
+R1481,P44,Clothing,U182,Great value for money.,5,222,Yes,2024-04-26,0
+R1482,P1,Books,U120,"Terrible quality, broke in 2 days.",1,229,No,2024-04-27,1
+R1483,P10,Sports,U123,Great value for money.,5,31,Yes,2024-04-28,0
+R1484,P23,Electronics,U27,"Loved it, will buy again!",2,106,Yes,2024-04-29,0
+R1485,P31,Home & Kitchen,U12,"Excellent product, highly recommend!",1,31,Yes,2024-04-30,1
+R1486,P39,Electronics,U1,"Excellent product, highly recommend!",5,160,No,2024-05-01,0
+R1487,P14,Home & Kitchen,U3,Worst experience ever.,2,44,Yes,2024-05-02,0
+R1488,P45,Clothing,U39,"Loved it, will buy again!",4,64,No,2024-05-03,0
+R1489,P49,Books,U98,"Excellent product, highly recommend!",2,141,Yes,2024-05-04,0
+R1490,P21,Electronics,U116,"Loved it, will buy again!",3,166,Yes,2024-05-05,0
+R1491,P44,Sports,U77,"Terrible quality, broke in 2 days.",2,74,Yes,2024-05-06,1
+R1492,P37,Clothing,U175,"Okay-ish, not worth the price.",2,119,Yes,2024-05-07,0
+R1493,P43,Electronics,U39,"Excellent product, highly recommend!",3,192,Yes,2024-05-08,0
+R1494,P6,Sports,U138,Worst experience ever.,5,155,No,2024-05-09,0
+R1495,P9,Electronics,U186,"Terrible quality, broke in 2 days.",5,240,Yes,2024-05-10,0
+R1496,P13,Home & Kitchen,U16,Looks fake and cheap.,2,138,Yes,2024-05-11,1
+R1497,P25,Electronics,U200,"Loved it, will buy again!",3,72,Yes,2024-05-12,0
+R1498,P46,Electronics,U62,Looks fake and cheap.,3,202,No,2024-05-13,0
+R1499,P16,Electronics,U25,Great value for money.,4,51,No,2024-05-14,0
