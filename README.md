@@ -18,6 +18,7 @@ Each project is built using real-world datasets to uncover insights, patterns, a
 ## 📁 Folder Structure
 
 Each project in this repository is organized in its own folder with the following files:
+
 project-name/
 ├── dashboard.pbix # Power BI dashboard
 ├── dataset.csv # Raw or processed data
