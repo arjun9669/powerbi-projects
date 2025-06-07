@@ -17,69 +17,77 @@ Each project is built using real-world datasets to uncover insights, patterns, a
 
 ## 📁 Folder Structure
 
-Each project in this repository is organized in its own folder with the following files:
+Each project is organized in its own folder and contains:
 
-project-name/
-├── dashboard.pbix # Power BI dashboard
-├── dataset.csv # Raw or processed data
-└── README.md # Project summary & insights
+- `dashboard.pbix` → Power BI dashboard file
+- `dataset.csv` → Cleaned dataset used in the dashboard
+- `README.md` → Project-specific summary, visuals, and insights
 
-You can explore each project by downloading the `.pbix` file and opening it with **Power BI Desktop**.
+💡 *You can download the `.pbix` file and open it in Power BI Desktop to explore the visuals interactively.*
 
 ---
 
 ## 🛠️ Tools & Techniques
 
-- **Power BI Desktop** – for interactive dashboards and KPIs  
-- **DAX Measures** – calculated metrics, condition-based KPIs  
-- **Data Modeling** – relationships across multiple tables  
-- **Real-World Datasets** – CSV files used for analysis  
-- **Design Focus** – Clean, minimal visuals for business storytelling
+- **Power BI Desktop** – for creating interactive dashboards
+- **DAX Measures** – for KPIs and calculated logic
+- **Data Modeling** – joining multiple datasets
+- **Real-World CSVs** – raw or labeled datasets used in all projects
+- **Design Thinking** – user-friendly visuals and logical layouts
 
 ---
 
 ## 🔍 Project Highlights
 
 ### 🏥 Healthcare Claims Fraud Detection
-> Identifies fraudulent claims based on patient history, inpatient/outpatient behavior, and chronic condition flags.
+> Identifies patterns in inpatient, outpatient, and beneficiary data to flag suspicious providers and claims.
 
+📌 **Features**:
 - Merged 4 healthcare datasets
-- State-wise fraud distribution
-- Matrix visualization for provider risk
+- Matrix visual for provider fraud
+- Chronic condition mapping
+
+📁 Folder: `Healthcare_Claims_Fraud_Dashboard/`
 
 ---
 
 ### 🛒 Fake Product Review Detection
-> Detects unusual patterns in product reviews using frequency, verification, and reviewer activity.
+> Detects fake or spam-like reviews in e-commerce products.
 
-- Donut chart: Verified vs Unverified
-- Reviewer heatmaps
-- Product-level fraud indicators
+📌 **Features**:
+- Verified vs unverified split
+- Reviewer behavior heatmaps
+- Short-review pattern detection
+
+📁 Folder: `Fake_Review_Detection_Dashboard/`
 
 ---
 
 ### 💳 Fraud Detection with ML Prediction
-> Visualizes model predictions for fraud vs non-fraud transactions using a prediction-labeled dataset.
+> Visualizes fraud labels predicted by a machine learning model.
 
-- KPI cards: % Fraud, % Predicted Fraud
-- Gender, Race, and Claim Type visuals
-- Heatmap and prediction distribution charts
+📌 **Features**:
+- Actual vs predicted fraud classification
+- State, gender, race breakdowns
+- Prediction score distribution
+
+📁 Folder: `Fraud_Detection_Dashboard/`
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Arjun Kumar**, an aspiring data analyst who enjoys turning data into stories and solutions.  
-I specialize in **Power BI**, **SQL**, **Python**, and **machine learning**, and I'm constantly learning and building data-driven solutions.
+I'm **Arjun Kumar**, an aspiring data analyst with a passion for solving problems through data visualization and analytics.  
+My strengths lie in **Power BI**, **Python**, **SQL**, and building meaningful dashboards that speak for themselves.
 
 - 🧠 GitHub: [github.com/arjun9669](https://github.com/arjun9669)
 - 🌐 Portfolio: [my-data-story.lovable.app](https://my-data-story.lovable.app)
-- 🔗 LinkedIn: [linkedin.com/in/arjun-analytics](https://linkedin.com/in/arjun-analytics)
+- 💼 LinkedIn: [linkedin.com/in/arjun-analytics](https://linkedin.com/in/arjun-analytics)
 
 ---
 
-## 📬 Get in Touch
+## 📬 Let's Connect
 
-Have feedback or ideas to collaborate? Feel free to connect with me on LinkedIn or reach out via GitHub!
+If you'd like to share feedback or collaborate on future data projects, feel free to reach out on [LinkedIn](https://linkedin.com/in/arjun-analytics)!
 
 ---
