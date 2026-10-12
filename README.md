@@ -91,7 +91,7 @@ Each project is organized into its own folder and contains:
 
 ## 👨‍💻 About Me
 
-I'm **Arjun Kumar**, an aspiring Data Analyst passionate about transforming data into stories through dashboards and visual analytics.  
+I'm **Arjun Kumar**, an AI Engineer passionate about transforming data into stories through dashboards and visual analytics.  
 My core strengths lie in:
 
 - 📊 **Power BI**
